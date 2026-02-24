@@ -135,7 +135,7 @@ export function Invitation() {
             </div>
             <div className="flex items-center justify-center gap-2 text-muted-foreground">
                 <Clock className="h-4 w-4 shrink-0 text-primary/70" />
-                <span className="text-base">17:00 hs</span>
+                <span className="text-base">17:00 hs - 00:00 hs</span>
             </div>
             <p className="mb-4 font-serif text-2xl font-semibold text-foreground">
               Quincho Multiespacio
@@ -172,7 +172,7 @@ export function Invitation() {
             </div>
             <div className=" mb-3 flex items-center justify-center gap-2 text-primary">
               <p className="mb-4 font-serif text-2xl font-semibold text-foreground">
-              Traer lo que quieran tomar, lo importante es compartir juntos!
+              Traer lo que quieran tomar. Recordá traer malla para disfrutar de la pileta lo importante es compartir juntos!
             </p>
             </div>
             <div className=" mb-3 flex  justify-end gap-2 text-primary">
