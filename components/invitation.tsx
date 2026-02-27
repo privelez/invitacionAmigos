@@ -108,7 +108,7 @@ export function Invitation() {
               <div className="flex items-center justify-center gap-2 text-muted-foreground">
                 <MapPin className="h-4 w-4 shrink-0 text-primary/70" />
                 <span className="text-base text-balance">
-                  Lugar a Confirmar (posiblemente sala 57 o 58 del Bloque 2)
+                  Aula 57 del Bloque 2
                 </span>
               </div>
             </div>
